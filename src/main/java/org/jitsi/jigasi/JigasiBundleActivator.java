@@ -105,7 +105,7 @@ public class JigasiBundleActivator
      * The default value for enabling sip
      */
     public final static boolean ENABLE_SIP_DEFAULT_VALUE = false;
-
+    //comment 
     /**
      * The default value for enabling StartMuted over SIP.
      */
