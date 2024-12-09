@@ -99,12 +99,12 @@ public class JigasiBundleActivator
     /**
      * The default value for enabling transcription
      */
-    public final static boolean ENABLE_TRANSCRIPTION_DEFAULT_VALUE = true;
+    public final static boolean ENABLE_TRANSCRIPTION_DEFAULT_VALUE = false;
 
     /**
      * The default value for enabling sip
      */
-    public final static boolean ENABLE_SIP_DEFAULT_VALUE = false;
+    public final static boolean ENABLE_SIP_DEFAULT_VALUE = true;
     //comment 
     /**
      * The default value for enabling StartMuted over SIP.
